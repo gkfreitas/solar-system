@@ -11,7 +11,4 @@ class Missions extends React.Component {
   }
 }
 
-Missions.propTypes = {
-};
-
 export default Missions;
